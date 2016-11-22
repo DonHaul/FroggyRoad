@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{351452F3-2542-4671-D47A-DF288ECB6E2A}") = "FroggyRoad", "Assembly-CSharp.csproj", "{F8AEB399-7498-B555-EBF3-5F1DDB3E0E8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8AEB399-7498-B555-EBF3-5F1DDB3E0E8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8AEB399-7498-B555-EBF3-5F1DDB3E0E8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8AEB399-7498-B555-EBF3-5F1DDB3E0E8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8AEB399-7498-B555-EBF3-5F1DDB3E0E8A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
