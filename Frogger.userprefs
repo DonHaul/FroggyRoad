@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\GameManager.cs">
+    <Files>
+      <File FileName="Assets\RiverInstantiater.cs" Line="1" Column="1" />
+      <File FileName="Assets\Instantiater.cs" Line="85" Column="1" />
+      <File FileName="Assets\TrainInstantiater.cs" Line="1" Column="1" />
+      <File FileName="Assets\playerController.cs" Line="139" Column="5" />
+      <File FileName="Assets\GameManager.cs" Line="87" Column="67" />
+      <File FileName="Assets\eagle.cs" Line="20" Column="72" />
+      <File FileName="Assets\goForwards.cs" Line="1" Column="1" />
+      <File FileName="Assets\CameraFollow.cs" Line="24" Column="18" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
