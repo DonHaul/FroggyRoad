@@ -7,4 +7,4 @@ The full clone can be played here:
 https://warmfeet.itch.io/froggyroad
 
 Here is some example gameplay:
-<img src="https://i.imgur.com/G1cJ2XU.gifv" width="500" height="364">
+https://imgur.com/a/bl5YhRm
